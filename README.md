@@ -48,9 +48,3 @@ Dari total 18 kombinasi parameter yang dievaluasi, tidak ada solusi yang memenuh
 - Sensitivitas menunjukkan bahwa peningkatan jumlah dokter dan strategi penjadwalan memengaruhi waktu tunggu dan utilisasi.
 - Tidak ditemukan konfigurasi parameter yang memenuhi semua batasan. Disarankan untuk melonggarkan batasan atau memperluas ruang parameter.
 
-### Langkah Selanjutnya
-1. **Validasi ulang model** dengan parameter yang lebih realistis.
-2. **Eksperimen lebih lanjut** untuk menemukan parameter yang lebih optimal.
-3. **Pertimbangkan faktor lain** seperti distribusi kedatangan pasien yang lebih kompleks.
-4. **Gunakan data historis** untuk kalibrasi lebih lanjut terhadap model.
-
