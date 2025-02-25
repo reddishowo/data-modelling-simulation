@@ -681,9 +681,6 @@ def main_enhanced():
             {"general": 2, "specialist": 2, "preventive": 1, "followup": 1},
             {"general": 3, "specialist": 2, "preventive": 1, "followup": 1},
             {"general": 4, "specialist": 2, "preventive": 1, "followup": 1},
-            {"general": 3, "specialist": 3, "preventive": 1, "followup": 1},  # Added configuration
-            {"general": 4, "specialist": 3, "preventive": 1, "followup": 1},  # Added configuration
-            {"general": 3, "specialist": 2, "preventive": 2, "followup": 1}   # Added configuration
             ],
         "scheduling_strategy": ["fifo", "priority", "type_based"],
         "mean_consult_times": [mean_consult_times],
