@@ -7,13 +7,11 @@ Proyek ini bertujuan untuk mensimulasikan sistem antrean dalam sebuah platform l
 Simulasi ini mencakup beberapa variabel penting, yaitu:
 
 - **Dokter**: Jumlah dokter yang tersedia untuk melayani pasien.
-- **Tingkat Kedatangan**: Jumlah pasien yang datang per menit.
 - **Total Pasien**: Jumlah keseluruhan pasien yang telah mendapatkan layanan.
 - **Waktu Tunggu Rata-rata**: Waktu rata-rata yang dihabiskan pasien dalam antrean sebelum mendapatkan pelayanan medis (dalam menit).
 - **Panjang Antrean Rata-rata**: Rata-rata jumlah pasien yang sedang menunggu dalam antrean.
 - **Utilisasi Dokter**: Persentase waktu kerja dokter yang digunakan untuk melayani pasien dibandingkan dengan waktu yang tersedia.
 - **Durasi Simulasi:** 8 jam (480 menit) dan 12 jam (720 menit)
-- **Jumlah Dokter:**
 - **Tingkat Kedatangan Pasien:** 0.10 hingga 0.30 pasien per menit
 
 ## Ringkasan Hasil Simulasi
