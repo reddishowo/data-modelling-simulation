@@ -1,4 +1,4 @@
-# Simulasi Sistem Antrean Layanan Digital
+# Simulasi Sistem Reservasi Online Klinik Kesehatan.
 
 ## Validasi Model
 Model saat ini **tidak valid** berdasarkan perbandingan metrik simulasi dengan data referensi:
