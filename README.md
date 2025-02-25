@@ -17,7 +17,7 @@ Simulasi ini mencakup beberapa variabel penting, yaitu:
 ## Ringkasan Hasil Simulasi
 Simulasi dilakukan dengan variasi jumlah dokter (1 dan 5 dokter) dan tingkat kedatangan pasien (0.10 hingga 0.30 pasien/menit). Hasil dari simulasi ini dirangkum dalam tabel berikut:
 
-### Dibawah ini merupakan Ringkasan Hasil Simulasi menggunakan Waktu Simulasi 480 Menit atau 8 Jam
+### Dibawah ini merupakan Tabel Ringkasan Hasil Simulasi menggunakan Waktu Simulasi 480 Menit atau 8 Jam
 
 ### **1 Dokter**
 | Tingkat Kedatangan | Total Pasien | Waktu Tunggu (menit) | Panjang Antrean | Utilisasi (%) |
@@ -28,8 +28,6 @@ Simulasi dilakukan dengan variasi jumlah dokter (1 dan 5 dokter) dan tingkat ked
 | 0.25 | 26.8 | 188.55 | 47.81 | 103.38 |
 | 0.30 | 23.4 | 183.38 | 61.05 | 107.37 |
 
-Dapat dilihat bahwa ketika hanya ada satu dokter, waktu tunggu meningkat secara signifikan dengan bertambahnya jumlah pasien.
-
 ### **5 Dokter**
 | Tingkat Kedatangan | Total Pasien | Waktu Tunggu (menit) | Panjang Antrean | Utilisasi (%) |
 |------------------|-------------|------------------|----------------|--------------|
@@ -39,7 +37,25 @@ Dapat dilihat bahwa ketika hanya ada satu dokter, waktu tunggu meningkat secara 
 | 0.25 | 112.6 | 17.59 | 4.46 | 89.65 |
 | 0.30 | 119.2 | 47.30 | 13.48 | 100.30 |
 
-Dapat dilihat jika dokter ditambah hingga lima orang, itu bisa mengurangi antrean secara signifikan.
+### Dibawah ini merupakan Tabel Ringkasan Hasil Simulasi menggunakan Waktu Simulasi 720 Menit atau 12 Jam
+
+### **1 Dokter**
+| Tingkat Kedatangan | Total Pasien | Waktu Tunggu (menit) | Panjang Antrean | Utilisasi (%) |
+|------------------|-------------|------------------|----------------|--------------|
+| 0.10 | 33.8 | 190.58 | 20.90 | 98.01 |
+| 0.15 | 39.6 | 179.17 | 29.08 | 101.58 |
+| 0.20 | 39.4 | 261.93 | 59.07 | 101.25 |
+| 0.25 | 38.6 | 258.82 | 64.73 | 100.66 |
+| 0.30 | 38.0 | 306.47 | 89.43 | 102.35 |
+
+### **5 Dokter**
+| Tingkat Kedatangan | Total Pasien | Waktu Tunggu (menit) | Panjang Antrean | Utilisasi (%) |
+|------------------|-------------|------------------|----------------|--------------|
+| 0.10 | 63.8 | 0.01 | 0.00 | 34.59 |
+| 0.15 | 103.6 | 1.70 | 0.25 | 60.23 |
+| 0.20 | 140.6 | 10.76 | 2.24 | 79.95 |
+| 0.25 | 180.2 | 24.56 | 6.28 | 92.77 |
+| 0.30 | 172.0 | 74.98 | 24.10 | 100.40 |
 
 ## Analisis Hasil Simulasi
 
